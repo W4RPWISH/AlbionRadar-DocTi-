@@ -1,1 +1,13 @@
-# AlbionRadar-DocTi-
+<div align="center">
+
+# AlbionRadar(DocTi) Dump
+
+</div>
+
+Это дамп предпоследней публичной версии AlbionRadar. Все файлы поставляются по лицензии MIT, делайте с ними, что вашей душе угодно.
+Обфускации и Вирты нету, некоторые конструкции "оптимизированы" компилятором, имейте это ввиду.
+На оригинальном файле стояла защита Themida, которую я снял ExtreameDumper'ом
+
+# Our Discord
+
+- Link https://discord.gg/8byNr7TDma
